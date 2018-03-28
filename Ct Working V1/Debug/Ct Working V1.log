@@ -1,0 +1,39 @@
+﻿Build started 02/06/2014 12:03:30 PM.
+     1>Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Ct Working V1\Ct Working V1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ctv2.cpp
+         ctv2.cpp
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(70): warning C4101: 'l' : unreferenced local variable
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(424): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(461): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(509): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(520): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(569): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(570): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(604): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(700): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(728): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(729): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ct working v1\ct working v1\ctv2.cpp(761): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Debug\Ct Working V1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Debug\Ct Working V1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Debug\Ct Working V1.lib" /MACHINE:X86 Debug\ctv2.obj
+     1>ctv2.obj : error LNK2019: unresolved external symbol "int __cdecl login(void)" (?login@@YAHXZ) referenced in function "int __cdecl logoff(void)" (?logoff@@YAHXZ)
+     1>E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Debug\Ct Working V1.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Ct Working V1\Ct Working V1\Ct Working V1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:12.25

@@ -1,0 +1,42 @@
+﻿Build started 11/06/2014 1:35:27 PM.
+     1>Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Moores\Moores.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Moores.cpp
+         Moores.cpp
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(94): warning C4101: 'l' : unreferenced local variable
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(473): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(536): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(589): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(600): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(661): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(662): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(684): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(772): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(811): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(812): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(844): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(1977): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(1972): warning C4101: 'accountnum' : unreferenced local variable
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\moores\moores\moores\moores.cpp(1969): warning C4101: 'temp' : unreferenced local variable
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Debug\Moores.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Debug\Moores.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Debug\Moores.lib" /MACHINE:X86 Debug\Moores.obj
+         Moores.vcxproj -> E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Debug\Moores.exe
+     1>Done Building Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\Moores\Moores\Moores\Moores.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.53

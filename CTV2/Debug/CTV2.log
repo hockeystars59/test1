@@ -1,0 +1,17 @@
+﻿Build started 02/06/2014 1:18:09 PM.
+     1>Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\CTV2\CTV2\CTV2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CTV2.cpp
+         CTV2.cpp
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(191): error C2059: syntax error : 'switch'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(192): error C2143: syntax error : missing ';' before '{'
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(193): error C2046: illegal case
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(201): error C2046: illegal case
+     1>e:\ics 4u1\visual studio 2012\projects\ics 4u ct\ctv2\ctv2\ctv2.cpp(209): error C2046: illegal case
+     1>Done Building Project "E:\ICS 4U1\Visual Studio 2012\Projects\ICS 4U CT\CTV2\CTV2\CTV2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.80
